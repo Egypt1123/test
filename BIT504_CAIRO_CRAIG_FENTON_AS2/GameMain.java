@@ -7,6 +7,7 @@ import javax.swing.*;
 public class GameMain extends JPanel implements MouseListener{
 	//Constants for game 
 	// number of ROWS by COLS cell constants 
+	//IAM TEISTINTG TIO SEE IF I CNAIFSNDOANIOA
 	public static final int ROWS = 3;     
 	public static final int COLS = 3;  
 	public static final String TITLE = "Tic Tac Toe";
